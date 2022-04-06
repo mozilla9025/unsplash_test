@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Unsplash</string>
+    <string name="fragment_main_default_error">Oops, something went wrong…</string>
+    <string name="fragment_collection_details_total_photos_format">Total photos: %s</string>
 </resources>
